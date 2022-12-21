@@ -17,7 +17,7 @@ HTML • CSS • JavaScript • jQuery • React • VueJS • Tailwind CSS • 
 Flutter
 
 ### **🥱 Familiar:**
-Linux • Git • GitHub • Jira • Bitbucket • SSH • Navicat • Postman
+Linux • Docker • Git • GitHub • Jira • Bitbucket • SSH • Navicat • Postman
 
 ## 🥇 AWARD
 2019 • Winner • The Game of Code’19
