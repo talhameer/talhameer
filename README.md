@@ -16,7 +16,7 @@ HTML • CSS • JavaScript • jQuery • React • VueJS • Tailwind CSS • 
 ### **📱 Mobile Development:**
 Flutter
 
-### **🥱 Familiar:**
+### **🥱 Familiar with:**
 Linux • Docker • Git • GitHub • Jira • Bitbucket • SSH • Navicat • Postman
 
 ## 🥇 AWARD
