@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a passionate full-stack software engineer with almost 4 years of experience in the industry. I approach tasks given to me in a very positive and enthusiastic manner.
+I’m a passionate full-stack software engineer with 5+ years of experience in the industry. I approach tasks given to me in a very positive and enthusiastic manner.
 
 ## 💪 PROWESS
 
